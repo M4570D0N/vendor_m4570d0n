@@ -2,7 +2,7 @@
 <resources>
     <style name="DialtactsTheme" parent="@android:style/Theme.Holo">
         <item name="android:textColorSecondary">@color/dialtacts_secondary_text_color</item>
-        <item name="android:windowBackground">@drawable/background_dial_holo_dark</item>
+        <item name="android:windowBackground">@drawable/semi_transparent_bg</item>
         <item name="android:windowContentOverlay">@null</item>
         <item name="android:listViewStyle">@style/ListViewStyle</item>
         <item name="android:actionBarStyle">@style/DialtactsActionBarStyle</item>
@@ -47,8 +47,8 @@
         <item name="call_log_voicemail_status_action_text_color">#ff33b5e5</item>
         <item name="favorites_padding_bottom">?android:actionBarSize</item>
     </style>
-    <style name="CallDetailActivityTheme" parent="@android:style/Theme.Holo">
-        <item name="android:windowBackground">@drawable/background_dial_holo_dark</item>
+    <style name="CallDetailActivityTheme" parent="@android:style/Theme.Holo.Wallpaper">
+        <item name="android:windowBackground">@drawable/semi_transparent_bg</item>
         <item name="android:listViewStyle">@style/ListViewStyle</item>
         <item name="android:gravity">top</item>
         <item name="call_log_primary_text_color">#ffffffff</item>
@@ -61,10 +61,10 @@
         <item name="call_log_voicemail_status_text_color">#ff888888</item>
         <item name="call_log_voicemail_status_action_text_color">#ff33b5e5</item>
     </style>
-    <style name="DetailActivityTheme" parent="@android:style/Theme.Holo">
+    <style name="DetailActivityTheme" parent="@android:style/Theme.Holo.Wallpaper">
         <item name="android:textColorPrimary">@color/primary_text_color</item>
         <item name="android:textColorSecondary">@color/secondary_text_color</item>
-        <item name="android:windowBackground">@drawable/background_dial_holo_dark</item>
+        <item name="android:windowBackground">@drawable/semi_transparent_bg</item>
         <item name="android:listViewStyle">@style/ListViewStyle</item>
         <item name="android:actionBarStyle">@style/ContactsActionBarStyle</item>
         <item name="android:actionBarWidgetTheme">@style/ContactsActionBarTheme</item>
