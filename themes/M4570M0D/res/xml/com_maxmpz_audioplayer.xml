@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="drawable/status_icon2">@drawable/com_maxmpz_audioplayer_status_icon2</item>
+    <item name="drawable/app_icon">@mipmap/com_maxmpz_audioplayer_app_icon</item>
+</resource-redirections>

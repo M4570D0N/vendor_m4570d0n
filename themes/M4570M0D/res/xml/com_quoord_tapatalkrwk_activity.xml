@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="drawable/appicon">@mipmap/com_quoord_tapatalkrwk_activity_appicon</item>
+    <item name="drawable/splash">@drawable/com_quoord_tapatalkrwk_activity_splash</item>
+    <item name="drawable/notification">@drawable/com_quoord_tapatalkpro_activity_notification</item>
+    <item name="drawable/notification_d">@drawable/com_quoord_tapatalkpro_activity_notification_d</item>
+    <item name="drawable/notification_i">@drawable/com_quoord_tapatalkpro_activity_notification_i</item>
+    <item name="drawable/notification_n">@drawable/com_quoord_tapatalkpro_activity_notification_n</item>
+    <item name="drawable/notification_o">@drawable/com_quoord_tapatalkpro_activity_notification_o</item>
+    <item name="drawable/notification_w">@drawable/com_quoord_tapatalkpro_activity_notification_w</item>
+</resource-redirections>

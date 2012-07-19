@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="drawable/fl_app_icon">@mipmap/flipboard_app_fl_app_icon</item>
+</resource-redirections>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="mipmap/ic_launcher_maps">@mipmap/com_google_android_apps_maps_ic_launcher_maps</item>
+    <item name="mipmap/latitude_icon">@mipmap/com_google_android_apps_maps_latitude_icon</item>
+    <item name="mipmap/places_icon">@mipmap/com_google_android_apps_maps_places_icon</item>
+    <item name="drawable/ic_launcher_maps">@mipmap/com_google_android_apps_maps_ic_launcher_maps</item>
+    <item name="drawable/latitude_icon">@mipmap/com_google_android_apps_maps_latitude_icon</item>
+    <item name="drawable/places_icon">@mipmap/com_google_android_apps_maps_places_icon</item>
+    <item name="drawable/ic_feature_local">@mipmap/com_google_android_apps_maps_places_icon</item>
+</resource-redirections>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="drawable/oem_launcher_full">@mipmap/com_nuance_dragon_oem_launcher_full</item>
+    <item name="drawable/oem_launcher_icon">@mipmap/com_nuance_dragon_oem_launcher_full</item>
+</resource-redirections>

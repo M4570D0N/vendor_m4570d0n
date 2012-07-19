@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="mipmap/ic_launcher_youtube">@mipmap/com_google_android_youtube_ic_launcher_youtube</item>
+</resource-redirections>

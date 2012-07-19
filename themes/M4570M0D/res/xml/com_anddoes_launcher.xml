@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="drawable/grid_focused">@drawable/com_anddoes_launcher_grid_focused</item>
+    <item name="drawable/grid_pressed">@drawable/com_anddoes_launcher_grid_pressed</item>
+    <item name="drawable/grid_selected">@drawable/com_anddoes_launcher_grid_selected</item>
+    <item name="drawable/homescreen_blue_normal_holo">@drawable/com_anddoes_launcher_homescreen_blue_normal_holo</item>
+    <item name="drawable/homescreen_blue_strong_holo">@drawable/com_anddoes_launcher_homescreen_blue_strong_holo</item>
+    <item name="drawable/overscroll_glow_left">@drawable/com_anddoes_launcher_overscroll_glow_left</item>
+    <item name="drawable/overscroll_glow_right">@drawable/com_anddoes_launcher_overscroll_glow_right</item>
+    <item name="drawable/page_hover_left_holo">@drawable/com_anddoes_launcher_page_hover_left_holo</item>
+    <item name="drawable/page_hover_right_holo">@drawable/com_anddoes_launcher_page_hover_right_holo</item>
+    <item name="drawable/paged_view_indicator">@drawable/com_anddoes_launcher_paged_view_indicator</item>
+    <item name="drawable/tab_selected_focused_holo">@drawable/com_anddoes_launcher_tab_selected_focused_holo</item>
+    <item name="drawable/tab_selected_holo">@drawable/com_anddoes_launcher_tab_selected_holo</item>
+    <item name="drawable/tab_selected_pressed_holo">@drawable/com_anddoes_launcher_tab_selected_pressed_holo</item>
+    <item name="drawable/tab_unselected_focused_holo">@drawable/com_anddoes_launcher_tab_unselected_focused_holo</item>
+    <item name="drawable/tab_unselected_holo">@drawable/com_anddoes_launcher_tab_unselected_holo</item>
+    <item name="drawable/tab_unselected_pressed_focused_holo">@drawable/com_anddoes_launcher_tab_unselected_pressed_focused_holo</item>
+    <item name="drawable/tab_unselected_pressed_holo">@drawable/com_anddoes_launcher_tab_unselected_pressed_holo</item>
+    <item name="drawable/ic_launcher_home">@mipmap/com_anddoes_launcher_ic_launcher_home</item>
+    <item name="drawable/ic_allapps">@mipmap/com_anddoes_launcher_ic_allapps</item>
+    <item name="drawable/ic_allapps_pressed">@mipmap/com_anddoes_launcher_ic_allapps</item>
+</resource-redirections>

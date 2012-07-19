@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="drawable/icon">@mipmap/com_netflix_mediaclient_icon</item>
+    <item name="drawable/progressbar_indeterminate1">@drawable/frameworks_res_progressbar_indeterminate1</item>
+    <item name="drawable/progressbar_indeterminate2">@drawable/frameworks_res_progressbar_indeterminate2</item>
+    <item name="drawable/progressbar_indeterminate3">@drawable/frameworks_res_progressbar_indeterminate3</item>
+</resource-redirections>

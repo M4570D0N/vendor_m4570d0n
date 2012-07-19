@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="drawable/stat_notify_marketplace_update">@drawable/stat_notify_marketplace_update</item>
+    <item name="mipmap/ic_launcher_marketplace">@mipmap/com_android_vending_ic_launcher_marketplace</item>
+    <item name="mipmap/ic_launcher_play_store">@mipmap/com_android_vending_ic_launcher_play_store</item>
+</resource-redirections>

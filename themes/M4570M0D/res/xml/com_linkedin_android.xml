@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="drawable/launcher_icon_in">@mipmap/com_linkedin_android_launcher_icon_in</item>
+</resource-redirections>

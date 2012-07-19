@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="drawable/stat_notify_email_generic">@drawable/com_android_email_stat_notify_email_generic</item>
+    <item name="mipmap/ic_launcher_email">@mipmap/com_android_email_ic_launcher_email</item>
+</resource-redirections>

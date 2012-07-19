@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="drawable/flash_settings_icon">@mipmap/com_adobe_flashplayer_flash_settings_icon</item>
+    <item name="drawable/flash_menu_icon">@mipmap/com_adobe_flashplayer_flash_menu_icon</item>
+</resource-redirections>

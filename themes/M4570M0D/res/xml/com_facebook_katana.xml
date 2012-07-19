@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="drawable/sysnotif_completed">@drawable/sysnotif_complete</item>
+    <item name="drawable/sysnotif_facebook">@drawable/sysnotif_facebook</item>
+    <item name="drawable/sysnotif_friend_request">@drawable/sysnotif_friend_request</item>
+    <item name="drawable/sysnotif_invite">@drawable/sysnotif_invite</item>
+    <item name="drawable/sysnotif_loading">@drawable/sysnotif_loading</item>
+    <item name="drawable/sysnotif_message">@drawable/sysnotif_message</item>
+    <item name="drawable/icon_katana">@mipmap/com_facebook_katana_icon_katana</item>
+</resource-redirections>

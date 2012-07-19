@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="drawable/appicon">@mipmap/com_quoord_tapatalkxdapre_activity_shortcuticon</item>
+</resource-redirections>

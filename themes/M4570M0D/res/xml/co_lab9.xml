@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="drawable/title_button_player_status_icon">@drawable/title_button_player_status_icon</item>
+</resource-redirections>

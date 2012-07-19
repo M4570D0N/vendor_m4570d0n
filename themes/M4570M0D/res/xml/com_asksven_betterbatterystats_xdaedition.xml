@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="drawable/icon_notext">@mipmap/com_asksven_betterbatterystats_xdaedition_icon_notext</item>
+    <item name="drawable/icon_text">@mipmap/com_asksven_betterbatterystats_xdaedition_icon_notext</item>
+</resource-redirections>

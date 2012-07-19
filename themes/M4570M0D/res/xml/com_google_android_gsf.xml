@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="drawable/stat_notify_talk_text">@drawable/status_chat</item>
+</resource-redirections>

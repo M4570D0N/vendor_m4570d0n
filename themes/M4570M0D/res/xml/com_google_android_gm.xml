@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="drawable/stat_notify_email">@drawable/frameworks_res_stat_notify_gmail</item>
+    <item name="drawable/ic_launcher_mail">@mipmap/com_google_android_gm_ic_launcher_mail</item>
+    <item name="mipmap/ic_launcher_mail">@mipmap/com_google_android_gm_ic_launcher_mail</item>
+</resource-redirections>

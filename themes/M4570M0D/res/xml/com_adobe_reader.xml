@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="drawable/reader_app_android">@mipmap/com_adobe_reader_reader_app_android</item>
+</resource-redirections>

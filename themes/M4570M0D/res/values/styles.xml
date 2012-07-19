@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="M4570M0D" parent="@android:style/Theme" />
+    <style name="com_android_contacts_DialtactsTheme" parent="@android:style/Theme.Holo.Wallpaper">
+        <item name="android:windowBackground">@drawable/custom_background_dialer</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="com_andrew_apollo_Apollo.Holo" parent="@android:style/Theme.Holo">
+        <item name="android:actionOverflowButtonStyle">@style/com_andrew_apollo_OverFlowHolo</item>
+    </style>
+    <style name="com_andrew_apollo_Apollo.Holo.Light" parent="@android:style/Theme.Holo">
+        <item name="android:actionOverflowButtonStyle">@style/com_andrew_apollo_OverFlowHolo.Light</item>
+    </style>
+    <style name="com_andrew_apollo_OverFlowHolo" parent="@android:style/Widget.Holo.ActionButton.Overflow">
+        <item name="android:src">@drawable/com_andrew_apollo_apollo_holo_dark_overflow</item>
+    </style>
+    <style name="com_andrew_apollo_OverFlowHolo.Light" parent="@android:style/Widget.Holo.ActionButton.Overflow">
+        <item name="android:src">@drawable/com_andrew_apollo_apollo_holo_light_overflow</item>
+    </style>
+    <style name="com_dropbox_android_StatusProgressBar" parent="@android:style/Widget.ProgressBar.Horizontal">
+        <item name="android:maxHeight">12.0dip</item>
+        <item name="android:indeterminateDrawable">@drawable/com_dropbox_android_progress_indeterminate_horizontal</item>
+        <item name="android:progressDrawable">@drawable/com_dropbox_android_status_progress_bar</item>
+        <item name="android:minHeight">12.0dip</item>
+    </style>
+    <style name="com_dropbox_android_TextAppearance">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">#ff000000</item>
+        <item name="android:textColorHighlight">#ff33b5e5</item>
+        <item name="android:textColorHint">#ff888888</item>
+        <item name="android:textColorLink">#ff5c5cff</item>
+    </style>
+    <style name="com_dropbox_android_TextAppearance.MyDialogWindowTitle" parent="@style/com_dropbox_android_TextAppearance">
+        <item name="android:textSize">18.0sp</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">#ff000000</item>
+    </style>
+    <style name="TextAppearance.StatusBar.Title" parent="@android:style/Theme.Holo.Light.Panel">
+        <item name="android:textAppearance">?android:textAppearanceSmall</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#ff33b5e5</item>
+    </style>
+    <style name="TextAppearance.StatusBar.IntruderAlert" parent="@android:style/Theme.Holo.Light.Panel" />
+    <style name="TextAppearance.StatusBar.SystemPanel" parent="@android:style/Theme.Holo.Light.Panel">
+        <item name="android:textAppearance">?android:textAppearance</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">#ff33b5e5</item>
+    </style>
+    <style name="TextAppearance.StatusBar.TextButton" parent="@android:style/Theme.Holo.Light.Panel">
+        <item name="android:textAppearance">?android:textAppearance</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">#ff33b5e5</item>
+    </style>
+    <style name="TextAppearance.StatusBar.Battery" parent="@android:style/TextAppearance.StatusBar.Icon">
+        <item name="android:textSize">14.0dip</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">#ff33b5e5</item>
+    </style>
+    <style name="TextAppearance.StatusBar.Clock" parent="@android:style/TextAppearance.StatusBar.Icon">
+        <item name="android:textSize">16.0dip</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">#ff33b5e5</item>
+    </style>
+    <style name="TextAppearance.StatusBar.Date" parent="@android:style/TextAppearance.StatusBar.Icon">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">#ff33b5e5</item>
+    </style>
+    <style name="TextAppearance.StatusBar.Signal" parent="@android:style/TextAppearance.StatusBar.Icon">
+        <item name="android:textSize">12.0dip</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">#ff33b5e5</item>
+    </style>
+    <style name="Widget.ProgressBar.Horizontal" parent="@android:style/Widget.ProgressBar">
+        <item name="android:maxHeight">10.0dip</item>
+        <item name="android:indeterminateOnly">false</item>
+        <item name="android:indeterminateDrawable">@drawable/framework_res_progress_indeterminate_horizontal</item>
+        <item name="android:progressDrawable">@drawable/framework_res_progress_horizontal</item>
+        <item name="android:minHeight">10.0dip</item>
+    </style>
+    <style name="Widget.SeekBar" parent="@android:style/Widget">
+        <item name="android:focusable">true</item>
+        <item name="android:maxHeight">10.0dip</item>
+        <item name="android:indeterminateOnly">false</item>
+        <item name="android:indeterminateDrawable">@drawable/framework_res_progress_horizontal</item>
+        <item name="android:progressDrawable">@drawable/framework_res_progress_horizontal</item>
+        <item name="android:minHeight">10.0dip</item>
+        <item name="android:thumb">@drawable/framework_res_seek_thumb</item>
+        <item name="android:thumbOffset">8.0dip</item>
+    </style>
+</resources>
